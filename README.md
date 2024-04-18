@@ -15,6 +15,7 @@ Mini jogo de advinhação que através de perguntas parametrizadas localiza a co
 - Habilitar o modo desenvolvedor no windows para conseguir instalar aplicativos sem certificado
 - Para habilitar windows 11 ( Configurações > Sistema > Para desenvolvedores )
 - Executar o arquivo gourmet-game_1.0.1.0_x86.msix
+- Caso tenha problemas pode clicar com o botão direito no arquivo install.ps1 e executar com o powershell como administrador e o app ( gormmet-game ) vai ser instalado na sua máquina
 
 ## Tecnologias e conceitos Utilizadas
 
