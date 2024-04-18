@@ -33,6 +33,6 @@ Com o intuíto de ser o mais comples possível foi utilizado somente:
 
 |||
 |:----------------:|:----------------:|
-|<img src="./gourmet_game/Resources/Images/print_01.png" height="200" />|<img src="./gourmet-game/Resources/Images/print_02.png" height="200" />|
-|<img src="./gourmet_game/Resources/Images/print_03.png" height="200" />|<img src="./gourmet-game/Resources/Images/print_04.png" height="200" />|
+|<img src="./gourmet_game/Resources/Images/print_01.png" height="200" />|<img src="./gourmet_game/Resources/Images/print_02.png" height="200" />|
+|<img src="./gourmet_game/Resources/Images/print_03.png" height="200" />|<img src="./gourmet_game/Resources/Images/print_04.png" height="200" />|
 
