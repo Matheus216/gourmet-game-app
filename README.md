@@ -11,10 +11,10 @@ Mini jogo de advinhação que através de perguntas parametrizadas localiza a co
 
 ## Instalação
 
-- Baixar pacote de instalação [Baixar](./gourmet-game/releases/gourmet-game_1.0.0.0_Test.zip)
+- Baixar pacote de instalação [Baixar](https://www.dropbox.com/scl/fi/4ilxrvh1klrhdxnxjbc9p/gourmet-game_1.0.0.0_Test.zip?rlkey=duxplq1rzsa8plb9igupupt4x&dl=0./gourmet-game/releases/gourmet-game_1.0.0.0_Test.zip)
 - Executar o arquivo GAME_GORMET_INST.msix
 
-## Tecnologias e conceitos Utilizadas
+## Tecnologias e conceitos ultilizados
 
 Com o intuíto de ser o mais comples possível foi utilizado somente: 
 
