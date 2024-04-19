@@ -19,7 +19,7 @@ Mini jogo de advinhação que através de perguntas parametrizadas localiza a co
 
 ## Tecnologias e conceitos Utilizadas
 
-Com o intuíto de ser o mais comples possível foi utilizado somente: 
+Com o intuíto de ser o mais simples possível foi utilizado somente: 
 
 - .NET MAUI - Feito para rodar aplicações multiplataforma
 - Git flow - Fluxo de controle de versionamento respeitando método desenvolvido pelo time [atlassian](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
